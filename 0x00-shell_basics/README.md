@@ -10,3 +10,4 @@ with user and group IDs displayed numerically
 And hidden files (starting with .)
 mkdir /tmp/my_first_directory
 mv Move the file
+rm to remove file 
