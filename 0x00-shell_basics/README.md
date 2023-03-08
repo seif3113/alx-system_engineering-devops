@@ -14,4 +14,5 @@ rm to remove file
 rm to remove dir
 cd - to retrn the previous dir 
 ls -la list all
-file name  shoe file type  
+file name  shoe file type
+ln -s craete symnolic link  
