@@ -13,4 +13,5 @@ mv Move the file
 rm to remove file
 rm to remove dir
 cd - to retrn the previous dir 
-ls -la list all 
+ls -la list all
+file name  shoe file type  
