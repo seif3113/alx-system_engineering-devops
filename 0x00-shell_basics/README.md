@@ -12,4 +12,5 @@ mkdir /tmp/my_first_directory
 mv Move the file
 rm to remove file
 rm to remove dir
-cd - to retrn the previous dir  
+cd - to retrn the previous dir 
+ls -la list all 
