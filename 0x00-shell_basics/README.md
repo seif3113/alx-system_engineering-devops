@@ -15,4 +15,5 @@ rm to remove dir
 cd - to retrn the previous dir 
 ls -la list all
 file name  shoe file type
-ln -s craete symnolic link  
+ln -s craete symnolic link
+cp -u *.htm .. copy from currenr to parent witout copy exsist  
